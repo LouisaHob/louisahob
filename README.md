@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**LouisaHob/louisahob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Louisa — neuroscience nerd gone analytical 🧠➡️📊
 
-Here are some ideas to get you started:
+I’m a data scientist in the making, with a background in neuroscience and a passion for turning messy data into meaningful insights. Right now I’m sharpening my **Python** and **SQL** skills through online challenges, while building projects that showcase problem-solving and analytical thinking.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: Python projects that combine analysis with real-world data  
+- 🌱 I’m currently learning: SQL and machine learning fundamentals  
+- 👯 I’m looking to collaborate on: beginner-friendly data projects or open-source analytics tools  
+- 💬 Ask me about: neuroscience, data wrangling, or gym training 🏋️‍♀️  
+- 📫 How to reach me: [LinkedIn](your-linkedin-url) | [Email](mailto:your-email)  
+- 😄 Pronouns: she/her  
+- ⚡ Fun fact: I run a second-hand clothing shop on the side — data meets fashion!  
+
+---
+
+✨ Always curious. Always learning. Always analyzing.  
 -->
