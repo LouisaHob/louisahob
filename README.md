@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Louisa — neuroscience nerd gone analytical 🧠➡️📊
+### I'm Louisa - neuroscientist turned data scientist 🧠➡️📊
 
 I’m a data scientist in the making, with a background in neuroscience and a passion for turning messy data into meaningful insights. Right now I’m sharpening my **Python** and **SQL** skills through online challenges, while building projects that showcase problem-solving and analytical thinking.  
 
