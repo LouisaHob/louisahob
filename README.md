@@ -10,8 +10,3 @@ I’m a data scientist in the making, with a background in neuroscience and a pa
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/louisa-hobson-data-scientist/) | [Email](mailto:louisahobson@yahoo.com)  
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I run a second-hand clothing shop on the side - data meets fashion!  
-
----
-
-✨ Always curious. Always learning. Always analyzing.  
--->
